@@ -1,0 +1,3 @@
+Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.

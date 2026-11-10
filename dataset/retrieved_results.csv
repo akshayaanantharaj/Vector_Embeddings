@@ -1,0 +1,157 @@
+query,rank,document_id,document,distance
+What is Artificial Intelligence?,1,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",0.3629903793334961
+What is Artificial Intelligence?,2,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",0.7340501546859741
+What is Artificial Intelligence?,3,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",0.8639258742332458
+What is Artificial Intelligence?,4,document9.txt,"Generative Artificial Intelligence
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, music, and videos. It uses advanced machine learning models to generate human-like responses. ChatGPT, Google Gemini, and image generation tools are examples of Generative AI. It is useful in education, content creation, and software development.",1.0113346576690674
+What is Artificial Intelligence?,5,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",1.0384314060211182
+Explain Machine Learning.,1,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",0.6953368186950684
+Explain Machine Learning.,2,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",1.1356841325759888
+Explain Machine Learning.,3,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.1435275077819824
+Explain Machine Learning.,4,document3.txt,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",1.1470458507537842
+Explain Machine Learning.,5,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",1.1711806058883667
+What is Deep Learning?,1,document3.txt,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",0.26800963282585144
+What is Deep Learning?,2,document5.txt,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",0.7796887755393982
+What is Deep Learning?,3,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",0.9598947763442993
+What is Deep Learning?,4,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.1340641975402832
+What is Deep Learning?,5,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",1.165216326713562
+How do computers understand human language?,1,document4.txt,"Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand and process human languages. NLP is used in chatbots, language translation, voice assistants, text summarization, and sentiment analysis. It allows computers to communicate with humans using text and speech.",1.1452828645706177
+How do computers understand human language?,2,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",1.2488559484481812
+How do computers understand human language?,3,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.332266092300415
+How do computers understand human language?,4,document5.txt,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",1.3873687982559204
+How do computers understand human language?,5,document8.txt,"Expert Systems
+
+Expert Systems are AI programs that imitate the decision-making ability of human experts. They use a knowledge base and a set of rules to solve specific problems. Expert systems are used in medical diagnosis, banking, troubleshooting, and decision support. They help users make decisions based on stored knowledge.",1.4153845310211182
+What are Neural Networks?,1,document5.txt,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",0.32804587483406067
+What are Neural Networks?,2,document3.txt,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",0.8715088963508606
+What are Neural Networks?,3,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.1175047159194946
+What are Neural Networks?,4,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",1.1397521495819092
+What are Neural Networks?,5,document9.txt,"Generative Artificial Intelligence
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, music, and videos. It uses advanced machine learning models to generate human-like responses. ChatGPT, Google Gemini, and image generation tools are examples of Generative AI. It is useful in education, content creation, and software development.",1.2603278160095215
+Explain Computer Vision.,1,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",0.4955993592739105
+Explain Computer Vision.,2,document5.txt,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",1.2606122493743896
+Explain Computer Vision.,3,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.341086506843567
+Explain Computer Vision.,4,document3.txt,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",1.34220290184021
+Explain Computer Vision.,5,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",1.4013806581497192
+How are robots used in industries?,1,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",0.7101560831069946
+How are robots used in industries?,2,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.1749389171600342
+How are robots used in industries?,3,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",1.3174290657043457
+How are robots used in industries?,4,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",1.3447390794754028
+How are robots used in industries?,5,document4.txt,"Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand and process human languages. NLP is used in chatbots, language translation, voice assistants, text summarization, and sentiment analysis. It allows computers to communicate with humans using text and speech.",1.4827325344085693
+What are Expert Systems?,1,document8.txt,"Expert Systems
+
+Expert Systems are AI programs that imitate the decision-making ability of human experts. They use a knowledge base and a set of rules to solve specific problems. Expert systems are used in medical diagnosis, banking, troubleshooting, and decision support. They help users make decisions based on stored knowledge.",0.2727421522140503
+What are Expert Systems?,2,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",1.239664912223816
+What are Expert Systems?,3,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",1.2812564373016357
+What are Expert Systems?,4,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",1.342671275138855
+What are Expert Systems?,5,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",1.395911693572998
+What is Generative AI?,1,document9.txt,"Generative Artificial Intelligence
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, music, and videos. It uses advanced machine learning models to generate human-like responses. ChatGPT, Google Gemini, and image generation tools are examples of Generative AI. It is useful in education, content creation, and software development.",0.4122017025947571
+What is Generative AI?,2,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",0.9124011397361755
+What is Generative AI?,3,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",1.1385364532470703
+What is Generative AI?,4,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",1.2091073989868164
+What is Generative AI?,5,document2.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",1.244391918182373
+How is AI used in healthcare?,1,document10.txt,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",0.5305513143539429
+How is AI used in healthcare?,2,document1.txt,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",0.6084133982658386
+How is AI used in healthcare?,3,document7.txt,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",0.9069409370422363
+How is AI used in healthcare?,4,document8.txt,"Expert Systems
+
+Expert Systems are AI programs that imitate the decision-making ability of human experts. They use a knowledge base and a set of rules to solve specific problems. Expert systems are used in medical diagnosis, banking, troubleshooting, and decision support. They help users make decisions based on stored knowledge.",1.1283953189849854
+How is AI used in healthcare?,5,document6.txt,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",1.173505187034607

@@ -1,0 +1,3 @@
+Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.

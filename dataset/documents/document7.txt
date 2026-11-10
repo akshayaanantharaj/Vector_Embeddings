@@ -1,0 +1,3 @@
+Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.

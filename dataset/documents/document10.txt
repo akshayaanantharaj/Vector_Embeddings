@@ -1,0 +1,3 @@
+Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.
